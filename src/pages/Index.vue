@@ -21,9 +21,9 @@ export default {
 }
 
 .css-selector {
-	background: linear-gradient(-45deg, #ffffff, #0c0c0c, #59595a, #000000);
-	background-size: 400% 400%;
-	animation: gradient 5s ease infinite;
+background-color: #FFDEE9;
+background-image: linear-gradient(100deg, #FFDEE9 0%, #B5FFFC 100%);
+
 }
 
 @keyframes gradient {
